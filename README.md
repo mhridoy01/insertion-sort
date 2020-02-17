@@ -1,5 +1,5 @@
 # insertion-sort
-#cse2026,Rb,lecture-2(17february2020)
+#cse2026(Algo lab),Rb,lecture-2(17february2020)
 
 
 #include<bits/stdc++.h>
